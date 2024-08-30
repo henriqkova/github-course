@@ -2,6 +2,7 @@
 
 Este é um repositorio teste para ensinar como git funciona. 
 
-Saiba mais no link: https://linkedin.henriquekovalezyk.com
+Saiba mais no link: https://www.linkedin.com/in/henriquekovalezyk/
 
-Gostou do curso? Quer mais? Ajude com uma doação ate um cafe vale =)
+file VIM for tests with git // gitHub
+
